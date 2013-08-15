@@ -8,7 +8,7 @@ What is Like Alike?
 --
 You want someone to be alike you?
 
-I do. That's why I wrote this small app to compare photo of my daughter and me.
+I do. That's why I wrote this small ios app to compare photo of my daughter and me.
 
 
 Get Started
@@ -41,7 +41,7 @@ Press the x button to delete photo.
 
 Rearrange Photos
 --
-Long press the image to rearrange it.
+Long press the photo to start moving it.
 
 <img src="assets/images/likealike/iphone_rearrange.png" width="160"/>
 
