@@ -8,18 +8,18 @@ What is Like Alike?
 --
 You want someone to be alike you?
 
-I do. That's why I wrote this small ios app to compare photo of my daughter and me.
+I do. That's why I wrote this small ios app to compare picture of my daughter and me.
 
 
 Get Started
 --
-Press the + button to add your photo from library.
+Press the + button to add your picture from library.
 
 <img src="assets/images/likealike/iphone_empty.png" width="160"/>
 
-Add Photo
+Add Picture
 --
-Scale and rotate your photo by using two fingers.
+Scale and rotate your picture by using two fingers.
 
 <img src="assets/images/likealike/iphone_trim_original.png" width="160"/>
 
@@ -27,27 +27,27 @@ Scale and rotate your photo by using two fingers.
 
 <img src="assets/images/likealike/iphone_trim_added.png" width="160"/>
 
-Mix Photos
+Mix Pictures
 --
-Have fun mixing your photos!!
+Have fun mixing your pictures!!
 
 <img src="assets/images/likealike/iphone_mix_mixed.png" width="160"/>
 
-Delete Photo
+Delete Picture
 --
-Press the x button to delete photo.
+Press the x button to delete picture.
 
 <img src="assets/images/likealike/iphone_delete.png" width="160"/>
 
-Rearrange Photos
+Rearrange Pictures
 --
-Long press the photo to start moving it.
+Long press the picture to start moving it.
 
 <img src="assets/images/likealike/iphone_rearrange.png" width="160"/>
 
 Share
 --
-Let's share mixed photo with your family and friends!
+Let's share mixed picture with your family and friends!
 
 * Twitter hashtag [#likealikeapp](https://twitter.com/search?q=%23likealikeapp&src=typd&mode=realtime)
 * Facebook hashtag [#likealikeapp](https://www.facebook.com/hashtag/likealikeapp?fref=ts)
